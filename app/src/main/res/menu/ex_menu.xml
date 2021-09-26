@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/Payment_Details"
+    android:icon="@drawable/ic_icon"
+    android:title="Payment Details"
+    app:showAsAction="never"/>
+
+    <item android:id="@+id/Things_To_Do"
+        android:title="Things To Do"
+        app:showAsAction="never"/>
+</menu>
